@@ -14,16 +14,8 @@ function About() {
               <p>Anos de Experiência</p>
             </div>
             <div className="stat-item">
-              <h3 className="text-red">5000+</h3>
+              <h3 className="text-red">2000+</h3>
               <p>Clientes Satisfeitos</p>
-            </div>
-            <div className="stat-item">
-              <h3 className="text-red">24/7</h3>
-              <p>Suporte</p>
-            </div>
-            <div className="stat-item">
-              <h3 className="text-red">100%</h3>
-              <p>Garantia</p>
             </div>
           </div>
         </div>

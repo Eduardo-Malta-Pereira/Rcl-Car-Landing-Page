@@ -55,7 +55,7 @@ function Contact() {
               <div className="icon-box"><Clock color="white" size={24}/></div>
               <div className="info-text">
                 <span>Horário</span>
-                <strong>Seg-Sex: 8h-18h | Sáb: 8h-12h</strong>
+                <strong>Seg-Sex: 9h-18h | Sáb: 9h-12h</strong>
               </div>
             </div>
           </div>
