@@ -6,7 +6,13 @@ function Hero() {
     <section 
       id="inicio" 
       className="hero-section"
-      style={{ backgroundImage: `url("/img/hero_01.jpg")` }}
+      style={{ 
+        backgroundImage: `url("/img/hero_01.jpg")`,
+        backgroundSize: 'contain',
+        backgroundRepeat: 'no-repeat',
+        backgroundPosition: 'center',
+        backgroundColor: '#111111'
+      }}
     >
       <div className="hero-overlay"></div>
       <div className="hero-content">
